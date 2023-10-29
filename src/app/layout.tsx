@@ -13,11 +13,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <body className={inter.className}>
-        <Navbar />
+        {/* <Navbar />
         <div>
           <h1>Layouts: {state}</h1>
           <button onClick={() => setState(state + 1)}>Klik</button>
-        </div>
+        </div> */}
         {children}
       </body>
     </html>

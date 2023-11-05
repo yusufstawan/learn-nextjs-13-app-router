@@ -21,15 +21,15 @@ const data = [
   },
   {
     id: 4,
-    title: "Sepatu Baru 4",
-    price: 400000,
-    image: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/78a80376-3736-40b5-b487-422e0d93ff61/nocta-hot-step-air-terra-shoes-zwfDgC.png",
+    title: "Sepatu Baru 3",
+    price: 300000,
+    image: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8409c3b2-add4-4b18-927f-2767435a660b/dunk-low-retro-shoes-Zc0601.png",
   },
   {
     id: 5,
-    title: "Sepatu Baru 5",
-    price: 500000,
-    image: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/53f44f04-f9a1-439e-82bd-1fabea198a2a/court-vision-low-next-nature-shoes-N2fFHb.png",
+    title: "Sepatu Baru 3",
+    price: 300000,
+    image: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8409c3b2-add4-4b18-927f-2767435a660b/dunk-low-retro-shoes-Zc0601.png",
   },
 ];
 
